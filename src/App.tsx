@@ -16,7 +16,7 @@ function App() {
           </p>
           <div className='buttons'>
             <a href='https://discord.com/oauth2/authorize?client_id=1362050909965652049' className='button inviteMe icon-text-wrapper'><Link />招待する</a>
-            <a href='https://discord.com/oauth2/authorize?client_id=1362050909965652049' className='button support icon-text-wrapper'><MessageCircleQuestionMark />サポートサーバー</a>
+            <a href='https://discord.gg/SEx7yZZz6x' className='button support icon-text-wrapper'><MessageCircleQuestionMark />サポートサーバー</a>
           </div>
         </div>
       </section><br/>
